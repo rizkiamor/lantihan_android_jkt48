@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc">
+
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/next"
+        android:clickable="true"
+        android:onClick="clickNext"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="right|top"
+        android:background="@drawable/next"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/nabilah"
+        android:layout_gravity="center|top"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nabilah Ratna Ayu Azalia (lahir di Jakarta Utara, DKI Jakarta, 11 November 1999; umur 16 tahun) atau akrab dipanggil Nabilah atau Ayu-chin adalah penyanyi dan pemeran Indonesia yang merupakan anggota grup idola JKT48. Ia awalnya adalah anggota termuda di antara anggota JKT48, tapi kedatangan member baru dari Generasi keempat JKT48 membuat ia bukanlah member termuda lagi, karena banyak yang lebih muda. Namun, ia masih jadi member termuda di generasi pertama. Sebagai salah satu anggota unggulan, Nabilah selalu masuk di semua singel JKT48 hingga single ke-12 sekarang ini.  Nabilah lahir di Jakarta, tanggal 11 November 1999. Ia adalah member generasi pertama termuda di JKT48, di bawah Shania dan Beby. Menurut Nabilah, saat sesi MC di theater, nama &quot;Nabilah Ratna Ayu Azalia&quot; berasal dari kata Nabilah yang berarti &quot;wanita yang mulia&quot;, Ratna yang berarti sebuah bunga, Ayu yang berarti cantik dalam bahasa Jawa, dan Azalia yang berasal dari nama bunga, yaitu bunga Azalia (Azalea). Jadi, nama &quot;Nabilah Ratna Ayu Azalia&quot; berarti &quot;Wanita yang mulia seperti bunga yang cantik, yaitu bunga Azalia (Azalea)&quot;.  Nabilah termasuk 28 peserta yang lulus audisi JKT48 pada 2 November 2011.[1] Ia masih berusia 11 tahun ketika diterima sebagai anggota JKT48, meskipun beberapa hari setelahnya ia berulang tahun yang ke-12.[2] Sebelum masuk JKT48, ia sudah sering jadi foto model dan bintang iklan, salah satunya adalah iklan tonikum Zevit Grow.[3] Nabilah cadel, sejak kecil senang mengikuti kontes, pernah ikut lomba modeling, lomba mewarnai, dan lomba foto balita sehat.[4]  Bersama rekannya dari Generasi 1, Nabilah tampil pertama kali sebagai JKT48 pada program musik 100% Ampuh di Global TV pada 17 Desember 2011.[5] Mereka menyanyikan lagu debut JKT48, &quot;Heavy Rotation&quot; dengan lirik dalam bahasa Indonesia.[5] Ia juga termasuk siswi pelatihan Generasi 1 JKT48 yang tampil dalam video musik pertama JKT48, &quot;Heavy Rotation&quot;.[6]  Nabilah juga termasuk siswi pelatihan JKT48 yang diperkenalkan dalam konser AKB48 Kouhaku Taikou Uta Gassen, 20 Desember 2011. Konser tersebut berlangsung di Tokyo Dome City Hall, Tokyo.[7] Pada 31 Desember 2011, ia juga termasuk 16 orang anggota JKT48 yang tampil di acara Kouhaku Uta Gassen ke-62 di televisi Jepang NHK.[8] Ia termasuk anggota JKT48 yang tampil pada pertunjukan peresmian Teater JKT48 di Mal fX, Jakarta, 8 September 2012.[9]  Nabilah yang memiliki postur 154 cm / 48 kg ini termasuk 22 anggota Generasi 1 dan dua anggota transfer dari AKB48 yang diangkat menjadi anggota Tim J pada konser JKT48 First Anniversary Event di Gedung Bulutangkis Senayan, 23 Desember 2012.[10]  Gadis yang memiliki logat Betawi yang khas ini termasuk 16 anggota terpilih yang menyanyikan lagu utama singel perdana JKT48, &quot;River&quot; hingga single ke-12 &quot;Beginner&quot;.  Nabilah termasuk enam anggota JKT48 yang membentuk unit JKT48 Lawson R&amp;D Team untuk minimarket Lawson. Kontrak mereka berlangsung dari Juli hingga Desember 2013.[11]  Ternyata, Nabilah lebih mirip dengan salah satu Aktris Film Indonesia, Pevita Pearce[12] dan juga Sisca (Anggota Tim T)."
+        android:id="@+id/textView"
+        android:layout_gravity="left|bottom"
+        android:layout_marginTop="520dp"
+        android:textColor="#000"
+        android:background="#ed12e5"
+        android:padding="@dimen/activity_horizontal_margin"
+        />
+
+
+</FrameLayout>

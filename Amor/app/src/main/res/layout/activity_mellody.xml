@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/next"
+        android:clickable="true"
+        android:onClick="clickHome"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="right|top"
+        android:background="@drawable/movie"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mellody"
+        android:layout_gravity="center|top"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Melody Nurramdhani Laksani (lahir di Bandung, 24 Maret 1992; umur 24 tahun) atau akrab dipanggil Melody adalah salah seorang anggota JKT48 Tim J sebagai Manajer Umum Teater JKT48 yang berasal dari Bandung, Indonesia. Melody memiliki adik perempuan yang juga bergabung di JKT48 bernama Frieska Anastasia Laksani. Saat ini Melody juga masih menempuh studi S-1 jurusan Agroteknologi di Fakultas Pertanian Universitas Padjadjaran. Melody lahir di Bandung, pada 24 Maret 1992, dan ia merupakan anak kedua dari tiga bersaudara. Melody tinggal di Bandung sejak kecil hingga saat ini.  Sebelum bergabung dengan JKT48, Melody yang mempunyai postur 151 cm / 42 kg ini pernah menjadi model video klip grup band musik seperti Mahkota Band dan Walet Band. Pada tahun 2011, Melody dan adiknya yang bernama Frieska mengikuti audisi JKT48. Setelah masuk ke final audisi, keduanya terpilih menjadi member JKT48 dengan Frieska diumumkan terlebih dahulu.  Melody langsung mendapat posisi tengah utama di JKT48, dan ia juga diikutsertakan dalam salah satu singel ke-25 AKB48 bersama &apos;Special Girls A&apos; yang berjudul New Ship pada Februari 2012 lalu. Lagu &quot;New Ship&quot; muncul pada Tipe A edisi singel &quot;Give Me Five&quot;. Melody berperan sebagai siswi pindahan di sekolah menengah atas Jepang. Posisinya sebagai double center, menyanyi di tengah depan bersama Jurina Matsui dari SKE48.  Pada konser setahun JKT48 tanggal 23 Desember 2012, Melody bersama Akicha dan Haruka serta semua trainee generasi 1 JKT48 terpilih menjadi anggota Tim J dari JKT48.  Melody terpilih sebagai Duta Buah di Prefektur Okayama, Jepang. Gubernur Prefektur Okayama, Ibaragi Ryuta secara khusus memberikan sertifikat pengangkatan kepada Melody.[1]  Pada konser ulang tahun ke-2 JKT48 21 Desember 2013 di Jakarta Convention Center, Melody diangkat sebagai kapten JKT48 yang menaungi Tim J, Tim KIII dan siswi pelatihan.[2][3] Kedewasaan Melody menjadikan ia memang layak menjadi kapten JKT48.  Melody bersama dengan Nabilah, Shania, Haruka, dan Ve, selalu masuk dalam senbatsu JKT48 dari &quot;RIVER&quot; sampai &quot;Beginner&quot;.  Melody merupakan salah satu anggota JKT48 yang fanatik dengan sepak bola. Ia menggemari Manchester United, dan pemain favoritnya adalah Wayne Rooney. Ia juga menyukai Timnas Inggris dan Timnas Jerman, pemain Jerman favoritnya adalah Mesut Özil.  Pada Pemilihan Single ke-6 JKT48, Melody menempati urutan pertama, sedangkan pada Pemilihan Single ke-10 JKT48, Melody kini berada diurutan 3, setelah urutan pertama menjadi milik dari Veranda.  Mulai 1 Agustus 2015, Melody akan menjadi Manajer Umum dari Teater JKT48, setelah diumumkan di pengumuman reshuffle team pada konser &quot;JKT48 ada banyak rasa, pilih suka rasa apa?&quot; pada Juni 2015. "
+        android:id="@+id/textView"
+        android:layout_gravity="left|bottom"
+        android:layout_marginTop="520dp"
+        android:textColor="#000"
+        android:background="#ed12e5"
+        android:padding="@dimen/activity_horizontal_margin"
+        />
+
+
+</FrameLayout>

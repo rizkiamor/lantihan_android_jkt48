@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/next"
+        android:clickable="true"
+        android:onClick="clickNext"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="right|top"
+        android:background="@drawable/next"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ve"
+        android:layout_gravity="center|top"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jessica Veranda (lahir di Jakarta, 19 Agustus 1993; umur 22 tahun) atau akrab dipanggil Veranda atau Ve adalah pemeran dan penyanyi dari grup idola JKT48 generasi pertama yang berasal dari Jakarta, saat ini Veranda berada di Tim J.  Jessica Veranda merupakan anggota generasi pertama grup idola JKT48. Ia lahir di Jakarta, pada 19 Agustus 1993. Tanggal lahirnya sama dengan mantan anggota generasi 1 JKT48 yang lahir 2 tahun lebih awal, Rica Leyona. Nama Ve digunakan sebagai nama panggilan untuk menghindari kekeliruan dengan anggota JKT48 yang lain, Jessica Vania yang dipanggil Jeje.  Sebelum bergabung dalam JKT48, Ve pernah tampil dalam sinetron mini seri dan film bioskop. Sebelum menjadi anggota JKT48, Ve dikenal dengan nama Jessica Lontoh. Lontoh merupakan marga keturunan Manado yang dimiliki Ve dari garis keturunan ibunya.[1] Ayahnya keturunan Tionghoa, sedangkan Ibunya keturunan Manado-Portugis.  Ve merupakan salah satu anggota JKT48 yang telah memiliki pengalaman dalam dunia modeling sebelum bergabung dengan JKT48. Saat audisi sampai pertama masuk JKT48, Ve awalnya dikenal sebagai orang yang cukup pendiam dan pemalu, terkenal dari catchprasenya &quot;Meskipun aku pemalu, tapi aku tetap fashionable, panggil aku Ve&quot;. Namun akhirnya ia dapat lebih percaya diri di panggung dan juga lebih bisa berinteraksi dengan fansnya.  Di JKT48, ia dikenal karena kedekatannya dengan Devi Kinal Putri atau biasa disapa Kinal (dengan sebutan &quot;VenomeNal&quot;), meskipun harus berpisah sejak Kinal pindah ke Team KIII per 1 Agustus 2015. Terkadang persahabatan ini mengundang pairing dari para fans sendiri.[2] Ve lebih dekat juga dengan Naomi, Dhike, Gracia, Jeje, juga Shania.  Sebagai member langganan senbatsu, Ve selalu masuk senbatsu dari awal sampai saat ini, juga menjadi performer default di theater pada setiap set list. Saat ini Ve menempuh pendidikan di Jurusan Desain Komunikasi Visual di salah satu Perguruan Tinggi Swasta di Jakarta."
+        android:id="@+id/textView"
+        android:layout_gravity="left|bottom"
+        android:layout_marginTop="520dp"
+        android:textColor="#000"
+        android:background="#ed12e5"
+        android:padding="@dimen/activity_horizontal_margin"
+        />
+
+
+</FrameLayout>
